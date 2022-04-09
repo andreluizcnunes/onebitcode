@@ -1,9 +1,7 @@
 let nomePessoaVelha = prompt("Digite o nome da pessoa mais velha");
-
 let agePessoaVelha = prompt("Digite a idade da pessoa mais velha");
 
 let nomePessoaNova = prompt("Digite o nome da pessoa mais nova");
-
 let agePessoaNova = prompt("Digite a idade da pessoa mais nova");
 
 let diferenca = agePessoaVelha - agePessoaNova;
