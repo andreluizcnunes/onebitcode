@@ -6,4 +6,4 @@ let agePessoaNova = prompt("Digite a idade da pessoa mais nova");
 
 let diferenca = agePessoaVelha - agePessoaNova;
 
-alert(`Nome do mais Velho: ${nomePessoaVelha}\nIdade pessoa mais velha: ${agePessoaVelha}\nNome pessoa mais noova: ${nomePessoaNova}\nIdade da pessoa mais nova: ${agePessoaNova}\nDiferença de idade entre elas é: ${diferenca}`)
+alert(`Nome do mais Velho: ${nomePessoaVelha}\nIdade pessoa mais velha: ${agePessoaVelha}\n\nNome pessoa mais noova: ${nomePessoaNova}\nIdade da pessoa mais nova: ${agePessoaNova}\n\nDiferença de idade entre elas é: ${diferenca}`)
