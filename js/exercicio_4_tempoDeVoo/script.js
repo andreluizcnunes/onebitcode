@@ -21,7 +21,7 @@ if (choseOption == "1") {
   let dayOfDeparture = Math.round(dateDiff / 1000 / 3600/ 24);
   alert(`Tempo de vôo ${dayOfDeparture} Dias`);
 } else if (choseOption == "5") {
-  let monthsOfDeparture = Math.round(dateDiff / 1000 / 3600/ 24 / 30.417);
+  let monthsOfDeparture = Math.round(dateDiff / 1000 / 3600 / 24 / 30.417);
   alert(`Tempo de vôo ${monthsOfDeparture} Mêses`);
 } else if (choseOption == "6") {
   let ageOfDeparture = Math.round(dateDiff / 1000 / 3600/ 24 / 30.417 / 12);
