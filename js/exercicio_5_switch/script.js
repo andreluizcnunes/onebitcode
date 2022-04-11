@@ -1,6 +1,6 @@
 let distance = prompt("Qual a distância em Anos Luz?");
 
-let listOption = prompt(`Para qual unidade quer converter?\n1- Parsec(pc)\n2- Unidade astronônima(AU)\n3- Quilômetros(km)`);
+let listOption = prompt(`Para qual unidade quer converter?\n1- Parsec(pc)\n2- Unidade astronônima(AU)\n3- Quilômetros(km)\n\n Digite o Número da OPÇÃO`);
 
 let conversionPc = distance / 3.262;
 let conversionAu = distance * 63241.1;
