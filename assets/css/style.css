@@ -26,6 +26,12 @@ section{
   justify-content: center;
 }
 
+.button-curso {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
 .link-exercicio {
   text-decoration: none;
   background: rgb(250, 2, 60);
